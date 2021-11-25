@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**gengxiaoxiaoxin/gengxiaoxiaoxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **gengxiaoxiaoxin/gengxiaoxiaoxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+**About me**
+- 🌱 I’m currently learning [Vue3](https://github.com/vuejs/vue-next),[TypeScipt](https://github.com/microsoft/TypeScript)
+- 💬 Ask me about ... [here](https://github.com/gengxiaoxiaoxin/gengxiaoxiaoxin/issues)
+
+[![Origin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gengxiaoxiaoxin&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
