@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 **About me**
-- 🌱 I’m currently learning [Vue3](https://github.com/vuejs/vue-next),[TypeScipt](https://github.com/microsoft/TypeScript)
+- 🔭 I’m currently working on go
+- 🌱 I’m currently learning MIT6.824
 - 💬 Ask me about ... [here](https://github.com/gengxiaoxiaoxin/gengxiaoxiaoxin/issues)
 
 [![Origin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gengxiaoxiaoxin&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
